@@ -18,4 +18,3 @@ The sites in this repository each have their own licensing terms, please consult
 
 # Created by: Andrew Hoefling
 This repository was created by [Andrew Hoefling](https://github.com/ahoefling).
-
