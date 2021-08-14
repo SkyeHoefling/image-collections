@@ -1,4 +1,4 @@
-# Test Image Collection
+# Image Collections
 This repository contains a list of locations where you can download collections of images. These images can be used to validate image processing code in your libraries.
 
 ## Contributing
