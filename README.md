@@ -16,5 +16,5 @@ The sites in this repository each have their own licensing terms, please consult
 | [https://rawsamples.ch/index.php/en/](https://rawsamples.ch/index.php/en/) | RAW sample images |
 | [https://www.signatureedits.com/free-raw-photos/](https://www.signatureedits.com/free-raw-photos/) | RAW sample images |
 
-# Created by: Andrew Hoefling
+# Created by: Skye Hoefling
 This repository was created by [Skye Hoefling](https://github.com/SkyeHoefling).
