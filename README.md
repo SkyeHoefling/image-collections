@@ -17,4 +17,4 @@ The sites in this repository each have their own licensing terms, please consult
 | [https://www.signatureedits.com/free-raw-photos/](https://www.signatureedits.com/free-raw-photos/) | RAW sample images |
 
 # Created by: Andrew Hoefling
-This repository was created by [Andrew Hoefling](https://github.com/ahoefling).
+This repository was created by [Skye Hoefling](https://github.com/SkyeHoefling).
